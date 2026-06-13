@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About | ALAMIN UMAR HASSAN </title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <div class="logo">ALAMIN UMAR HASSAN </div>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html" class="active">About</a></li>
+        <li><a href="skills.html">Skills</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="resume.html">Resume</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1>About Me</h1>
+    <p>I'm Al'amin Umar Hassan ', a passionate [Software Developer ] with 0.5 years of experience building websites and applications. I love turning ideas into reality through clean code and great design.</p>
+    <br>
+    <h2>Education</h2>
+    <div class="card">
+      <h3>B.Sc in Software Engineering </h3>
+      <p>Northwest University Kano , 2024 - 2029</p>
+    </div>
+    <br>
+    <h2>Interests</h2>
+    <p>Web development, UI/UX design, open source, and mentoring new developers.</p>
+  </main>
+
+  <footer>
+    <p>© 2026 ALAMIN UMAR HASSAN . Built with HTML & CSS.</p>
+    <div><a href="#">LinkedIn</a> | <a href="#">GitHub</a> | <a href="#">Twitter</a></div>
+  </footer>
+</body>
+</html>
